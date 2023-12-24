@@ -28,7 +28,6 @@ To follow along with this project, you should have a basic understanding of Pyth
 
 - pandas
 - Matplotlib
-- ...
 
 These packages should already be installed in Coursera's Jupyter Notebook environment, however if you'd like to install additional packages that are not included in this environment or are working off platform you can install additional packages using `!pip install packagename` within a notebook cell such as:
 
